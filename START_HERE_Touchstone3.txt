@@ -1,0 +1,19 @@
+NORTH STAR BAKERY — TOUCHSTONE 3 FINAL PACKAGE
+
+This continues the same North Star Bakery website from Touchstone Task 2. Do not create a new website.
+
+WEBSITE FILES
+Open the North_Star_Bakery_Touchstone3 folder. Upload its contents to the root of a PUBLIC GitHub repository: index.html, products.html, about.html, contact.html, style.css, README.md, homepage-screenshot.png, and the media folder. Keep the media folder and filenames unchanged.
+
+DESIGN EXPLANATION
+Submit BORNO_Wesnel_Touchstone3_Design_Explanation.docx. It contains the written design decisions and a homepage design screenshot.
+
+PUBLISHING / REQUIRED LINKS
+1. Sign in to GitHub and create a public repository (for example: north-star-bakery-touchstone3).
+2. Upload the CONTENTS of North_Star_Bakery_Touchstone3 to the repository root.
+3. Open Settings > Pages. Select Deploy from a branch, choose main and /(root), then Save.
+4. Wait for GitHub Pages to publish. Copy the actual repository URL and actual published Pages URL into the two link fields in the Word document.
+5. Open the published site in a private/incognito browser window. Test all four navigation links, images, audio/video fallback text, and the Contact form.
+
+IMPORTANT
+The website files and Word explanation are prepared, but the real GitHub repository URL and live preview URL cannot be supplied until the project is uploaded and published through the student's GitHub account. Do not submit placeholder or invented URLs.
